@@ -3,16 +3,16 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kareem-salah-492076233/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-CBC3E3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/kareem.salah.1447">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-CBC3E3?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/unfortunate_kafka/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-CBC3E3?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/KarimS2024">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-CBC3E3?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div id="counter" align="center">
@@ -32,7 +32,7 @@ I am a Biomedical Engineering student interested in programming especially in mo
 
 - :zap: In my free time, I learn new things or make 3D designs and posting them on my instagram account.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-salah-492076233/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-CBC3E3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-salah-492076233/)
 ---
 
 ### :fire: My Stats :
