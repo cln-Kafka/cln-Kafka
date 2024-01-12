@@ -27,7 +27,7 @@
 ---  
 
 ### :man_technologist: About Me : 
-I am a Biomedical Engineering student interested in programming especially in mobile development track <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Biomedical Engineering student interested in programming especially in mobile development track.
 - :telescope: I'm still a student in 3rd year and I'm open for any interesting internship.
 
 - :zap: In my free time, I learn new things or make 3D designs and posting them on my instagram account.
