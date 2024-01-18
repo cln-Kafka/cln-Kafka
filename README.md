@@ -29,7 +29,7 @@ I am a Biomedical Engineering student interested in programming especially in mo
 
 - :zap: In my free time, I learn new things or make 3D designs and posting them on my instagram account.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-bdccff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-salah-492076233/)
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/kareem-salah-492076233/">My LinkedIn</a>
 ---
 
 ### :fire: My Stats on Public Repositories:
