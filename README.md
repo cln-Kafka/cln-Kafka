@@ -16,7 +16,7 @@
   </a>
 </div>
 <div id="counter" align="center">
- <img src="https://komarev.com/ghpvc/?username=your-github-username&color=dc143c" alt=""/ align="center">
+ <img src="https://komarev.com/ghpvc/?username=cln-Kafka&style=flat-square&color=blue" alt=""/ align="center">
 </div>
 
 <h1 align="center">
