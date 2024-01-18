@@ -29,10 +29,10 @@ I am a Biomedical Engineering student interested in programming especially in mo
 
 - :zap: In my free time, I learn new things or make 3D designs and posting them on my instagram account.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/kareem-salah-492076233/">My LinkedIn</a>
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/kareem-salah-492076233/">My LinkedIn</a>
 ---
 
-### :fire: My Stats on Public Repositories:
+### :fire: My Stats on My Public Repositories:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cln-Kafka&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cln-Kafka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
