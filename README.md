@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/Twitter-bdccff?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div id="counter" align="center">
- <img src="https://komarev.com/ghpvc/?username=cln-Kafka&style=flat-square&color=blue" alt=""/ align="center">
-</div>
 
 <h1 align="center">
   Hey there
