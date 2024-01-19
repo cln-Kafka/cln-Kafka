@@ -25,11 +25,11 @@
 
 ### :man_technologist: About Me : 
 I am a Biomedical Engineering student interested in programming especially in mobile development track.
-- :telescope: I'm still a student in 3rd year and I'm open for any interesting internship.
+- I'm still a student in 3rd year and I'm open for any interesting internship.
 
-- :zap: In my free time, I learn new things or make 3D designs and posting them on my instagram account.
+- In my free time, I learn new things or make 3D designs and posting them on my instagram account.
 
-- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/kareem-salah-492076233/">My LinkedIn</a>
+- How to reach me: <a href="https://www.linkedin.com/in/kareem-salah-492076233/">My LinkedIn</a> ![image](https://github.com/cln-Kafka/cln-Kafka/assets/100665578/996ba40c-187a-42b7-87a7-1f42bf2eec13)
 ---
 
 ### :fire: My Stats on Public Repositories:
