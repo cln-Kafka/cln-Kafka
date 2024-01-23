@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me : 
 I am a Biomedical Engineering student interested in programming especially in mobile development track.
-- I'm still a student in 3rd year and I'm open for any interesting internship.
+- I'm still a student in 3rd year.
 
 - In my free time, I learn new things or make 3D designs and posting them on my instagram account.
 
