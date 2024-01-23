@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Facebook-bdccff?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/unfortunate_kafka/">
-    <img src="https://img.shields.io/badge/Instagram-bdccff?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-bdccff?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/KarimS2024">
     <img src="https://img.shields.io/badge/Twitter-bdccff?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -24,7 +24,7 @@
 I am a Biomedical Engineering student interested in programming especially in mobile development track.
 - I'm still a student in 3rd year.
 
-- In my free time, I learn new things or make 3D designs and posting them on my instagram account.
+- In my free time, I learn new things or make 3D designs and posting them on my <a href="https://www.instagram.com/unfortunate_kafka/">instagram account</a>.
 
 - How to reach me: <a href="https://www.linkedin.com/in/kareem-salah-492076233/">My LinkedIn</a> 📫
 ---
