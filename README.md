@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber Security along with Flutter Development**
 
-- 📫 How to reach me <a href="karim.noureddine02@eng-st.cu.edu.eg">My Gmail</a>
+- 📫 How to reach me **karim.noureddine02@eng-st.cu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
