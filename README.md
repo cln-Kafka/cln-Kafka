@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kareem Noureddine</h1>
 <h3 align="center">A Biomedical Engineering Student</h3>
 
-- 🔭 I’m currently working on **HeartGuard: Smart Wearable ECG**
+- 🔭 I’m currently working on **HeartGuard: Smart Wearable ECG** & **<a href="https://github.com/ZaBoteru/ZaBoteru-HydrationTrackerApp">ZaBoteru</a>**
 
-- 🌱 I’m currently learning **Cyber Security along with Flutter Development**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 📫 How to reach me **karim.noureddine02@eng-st.cu.edu.eg**
 
