@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 📫 How to reach me **karim.noureddine02@eng-st.cu.edu.eg**
+- 📫 How to reach me <a href="mailto:karim.noureddine02@eng-st.cu.edu.eg">email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
