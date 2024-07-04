@@ -5,17 +5,17 @@
 
 - 📫 How to reach me: <a href="mailto:karim.noureddine02@eng-st.cu.edu.eg">Karim Noureddine</a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via</h3>
 <p align="left">
-<a href="https://twitter.com/karims2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karims2024" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kareem-salah-492076233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareem-salah-492076233/" height="30" width="40" /></a>
-<a href="https://fb.com/kareem.salah.1447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kareem.salah.1447" height="30" width="40" /></a>
 <a href="https://instagram.com/unfortunate_kafka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unfortunate_kafka/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cln_kafka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cln_kafka" height="30" width="40" /></a>
 <a href="https://discord.gg/cln_Kafka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cln_Kafka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Toolstack 🛠️</h3>
+
+<div align="center">
 
 | Programming Languages | Frameworks & Libraries | Web Dev |
 | :-: | :-: | :-: |
@@ -25,3 +25,4 @@
 | :-: | :-: | :-: |
 | ![Design and Viz](https://go-skill-icons.vercel.app/api/icons?i=blender,photoshop,figma&titles=true) | ![Data Science](https://go-skill-icons.vercel.app/api/icons?i=matlab,pandas,numpy,scipy,matplotlib,opencv&titles=true) | ![Other Skills](https://go-skill-icons.vercel.app/api/icons?i=anss,firebase,arduino&titles=true) |
 
+</div>
