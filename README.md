@@ -5,6 +5,8 @@
 
 - 📫 How to reach me: <a href="mailto:karim.noureddine02@eng-st.cu.edu.eg">Karim Noureddine</a>
 
+- 🌠 check out <a href="https://drive.google.com/file/d/1aoAKgmkC6pXsdNepTZKwgsbsWkFVX-eU/view?usp=drive_link">my resume</a>
+
 <h3 align="left">Connect with me via</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kareem-salah-492076233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareem-salah-492076233/" height="30" width="40" /></a>
