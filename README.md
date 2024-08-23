@@ -9,10 +9,9 @@
 
 <h3 align="left">Connect with me via</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kareem-salah-492076233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareem-salah-492076233/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kareem-noureddine-492076233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareem-salah-492076233/" height="30" width="40" /></a>
 <a href="https://instagram.com/unfortunate_kafka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unfortunate_kafka/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cln_kafka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cln_kafka" height="30" width="40" /></a>
-<a href="https://discord.gg/cln_Kafka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cln_Kafka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Toolstack 🛠️</h3>
