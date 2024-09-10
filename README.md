@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Kareem Noureddine</h2>
 <h4 align="center">A Senior Systems and Biomedical Engineering Student</h4>
 
-- 🌱 I’m currently learning **Flutter Mobile Development and IoT**
+- 🌱 I’m currently learning **AI and Software Engineering**
 
-- 📫 How to reach me: <a href="mailto:karim.noureddine02@eng-st.cu.edu.eg">Karim Noureddine</a>
+- 📫 How to reach me: <a href="mailto:kareem.noureddine02@gmail.com">Karim Noureddine</a>
 
 - 🌠 check out <a href="https://drive.google.com/file/d/1aoAKgmkC6pXsdNepTZKwgsbsWkFVX-eU/view?usp=drive_link">my resume</a>
 
