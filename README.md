@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: <a href="mailto:kareem.noureddine02@gmail.com">Karim Noureddine</a>
 
-- 🌠 check out <a href="https://drive.google.com/file/d/1DQbn9ZfPXJGzGkztJYE0Xs_c6RKPALx2/view?usp=sharing">my resume</a>
+- 🌠 check out <a href="https://drive.google.com/file/d/1w7DLDQWB3moUwSGaBR1J1c3SbL7HyeRH/view?usp=sharing">my resume</a>
 
 <h3 align="left">Connect with me via</h3>
 <p align="left">
