@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Kareem Noureddine</h2>
 <h4 align="center">A Senior Systems and Biomedical Engineering Student</h4>
 
-- 🌱 I’m currently learning **AI and Software Engineering**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me: <a href="mailto:kareem.noureddine02@gmail.com">Karim Noureddine</a>
 
